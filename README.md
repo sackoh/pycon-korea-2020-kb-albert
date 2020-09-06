@@ -65,7 +65,7 @@ This tutorial might be helpful to ones who want to fine-tune and deploy PLMs eas
 
 빠른 테스트를 위해 BERT multilingual 모델로 아래 notebook 예제들을 테스트해볼 수 있습니다.<br>
 **작성된 예제들은 `bert-base-multilingual-cased`로 실행 가능합니다.**<br>
-colab notebook 안의 텍스트(주석) 내용을 참고해주시기 바랍니다.
+colab notebook 안의 텍스트(주석) 내용을 참고해주시기 바랍니다.<br>
 
 | Notebooks | Description |  |
 |:--- | :--- | ---: |
@@ -73,6 +73,8 @@ colab notebook 안의 텍스트(주석) 내용을 참고해주시기 바랍니�
 | [Fine-tuning ALBERT in PyTorch](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/02-Fine-tuning-ALBERT-in-PyTorch.ipynb) | PyTorch로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/02-Fine-tuning-ALBERT-in-PyTorch.ipynb) |
 | [Fine-tuning ALBERT in TensorFlow](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/03-Fine-tuning-ALBERT-in-TensorFlow.ipynb) | TensorFlow로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/03-Fine-tuning-ALBERT-in-TensorFlow.ipynb) |
 | [Fine-tuning ALBERT with TPU](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/04-Fine-tuning-ALBERT-with-TPU.ipynb) | TPU를 통해 훨씬 빠른 속도로 모델을 fine-tuning 해보는 예제 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/04-Fine-tuning-ALBERT-with-TPU.ipynb) |
+
+> Note: 위 예제는 Colab notebook 환경에서 테스트하는 것을 권장합니다
 
 <br>
 
