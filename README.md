@@ -1,4 +1,4 @@
-# Inroduction of ALBERT to understand Korean language in Financial domain with Transformers
+# Introduction of ALBERT to understand Korean language in Financial domain with Transformers
 
 This tutorial presented at PyCon Korea 2020 was created to share presentation slides and example codes.
 Since this tutorial mostly focused on concept of language model and its usages with Hugging Face's Transformers, 
