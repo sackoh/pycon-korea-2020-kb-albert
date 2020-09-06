@@ -6,16 +6,17 @@ please refer the [link](https://github.com/KB-Bank-AI/KB-ALBERT-KO) if you are i
 I appreciate Hugging Face Teams and their contributions to open source communities. 
 
 파이콘 코리아 2020에서 발표한 "금융 언어 이해를 위해 개발된 ALBERT 톺아보기 with Transformers"의 
-발표자료 및 예제 공유를 위한 깃헙 페이지입니다. 언어모델의 컨셉과 Hugging Face의 Transformers 라이브러리 
-사용 방법을 중점으로 다루고 있기 때문에 KB-ALBERT 자체에 대해서는 [link](https://github.com/KB-Bank-AI/KB-ALBERT-KO)를 참조하시기 바랍니다.
+발표자료 및 예제 공유를 위한 깃헙 페이지입니다. 본 발표는 *언어모델의 컨셉*과 *Hugging Face의 Transformers 라이브러리 사용 방법*을 
+중점으로 다루고 있습니다. KB-ALBERT 모델 자체 정보에 대해서는 [link](https://github.com/KB-Bank-AI/KB-ALBERT-KO)에서 
+찾아 볼 수 있습니다.
 
 <br>
 
 ## Slides
 
-Please find Korean slides [here](), but english version is being prepared.
+Please find Korean slides [here](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/assets/PyConKR-2020_%EC%98%A4%EC%84%B1%EC%9A%B0_%EA%B8%88%EC%9C%B5%20%EC%96%B8%EC%96%B4%20%EC%9D%B4%ED%95%B4%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%EA%B0%9C%EB%B0%9C%EB%90%9C%20ALBERT%20%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0_v1.0.pdf), but english version is being prepared.
 
-발표에 사용된 PPT 자료 [link]() 입니다.
+발표에 사용된 PPT 자료 [link](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/assets/PyConKR-2020_%EC%98%A4%EC%84%B1%EC%9A%B0_%EA%B8%88%EC%9C%B5%20%EC%96%B8%EC%96%B4%20%EC%9D%B4%ED%95%B4%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%EA%B0%9C%EB%B0%9C%EB%90%9C%20ALBERT%20%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0_v1.0.pdf) 입니다.
 
 ## Video Recording
 
@@ -67,10 +68,10 @@ This tutorial might be helpful to ones who want to fine-tune and deploy PLMs eas
 
 | Notebooks | Description |  |
 |:--- | :--- | ---: |
-| [Features of 🤗 Transformers]() | `Transformer`의 주요 특징들과 예제 코드 | [![Open In Colab]()] |
-| [Fine-tuning ALBERT in PyTorch]() | PyTorch로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab]()] |
-| [Fine-tuning ALBERT in TensorFlow]() | TensorFlow로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab]()] |
-| [Fine-tuning ALBERT with TPU]() | TPU를 통해 훨씬 빠른 속도로 모델을 fine-tuning 해보는 예제 | [![Open In Colab]()] |
+| [Features of 🤗 Transformers](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/01-Features-of-Transformers.ipynb) | `Transformer`의 주요 특징들과 예제 코드 | [![Open In Colab]](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/01-Features-of-Transformers.ipynb) |
+| [Fine-tuning ALBERT in PyTorch](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/02-Fine-tuning-ALBERT-in-PyTorch.ipynb) | PyTorch로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab]](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/02-Fine-tuning-ALBERT-in-PyTorch.ipynb) |
+| [Fine-tuning ALBERT in TensorFlow](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/03-Fine-tuning-ALBERT-in-TensorFlow.ipynb) | TensorFlow로 네이버 영화리뷰 감성분석을 위한 모델을 fine-tuning 하는 예제. GPU 환경 가능 | [![Open In Colab]](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/03-Fine-tuning-ALBERT-in-TensorFlow.ipynb) |
+| [Fine-tuning ALBERT with TPU](https://github.com/sackoh/pycon-korea-2020-kb-albert/blob/master/04-Fine-tuning-ALBERT-with-TPU.ipynb) | TPU를 통해 훨씬 빠른 속도로 모델을 fine-tuning 해보는 예제 | [![Open In Colab]](https://colab.research.google.com/github/sackoh/pycon-korea-2020-kb-albert/blob/master/04-Fine-tuning-ALBERT-with-TPU.ipynb) |
 
 <br>
 
