@@ -63,8 +63,9 @@ This tutorial might be helpful to ones who want to fine-tune and deploy PLMs eas
 아쉽게도 KB-ALBERT를 완전한 오픈소스로 공개하지 못하여, 별도 신청 과정을 통해야 모델을 다운받아 사용할 수 있습니다.
 [깃헙 링크](https://github.com/KB-Bank-AI/KB-ALBERT-KO/tree/master/kb-albert-char)에서 신청방법을 확인해주세요.
 
-빠른 테스트를 위해 BERT multilingual 모델로 아래 notebook 예제들을 테스트해볼 수 있습니다.
-**작성된 예제들은 `bert-base-multilingual-cased`로 실행 가능합니다.**
+빠른 테스트를 위해 BERT multilingual 모델로 아래 notebook 예제들을 테스트해볼 수 있습니다.<br>
+**작성된 예제들은 `bert-base-multilingual-cased`로 실행 가능합니다.**<br>
+colab notebook 안의 텍스트(주석) 내용을 참고해주시기 바랍니다.
 
 | Notebooks | Description |  |
 |:--- | :--- | ---: |
