@@ -81,3 +81,8 @@ colab notebook 안의 텍스트(주석) 내용을 참고해주시기 바랍니�
 ### References
 - https://github.com/huggingface/transformers
 - https://github.com/KB-Bank-AI/KB-ALBERT-KO
+
+<br>
+
+### Acknowledgement
+Examples are also tested on Google cloud Platform. Benchmark test has been done and supported by TFRC program.
